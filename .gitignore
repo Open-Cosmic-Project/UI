@@ -1,0 +1,15 @@
+# Editores y sistema
+*~
+*.swp
+.vscode/
+.idea/
+.DS_Store
+
+# Rust
+target/
+
+# CMake (creationde)
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
