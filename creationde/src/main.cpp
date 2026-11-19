@@ -7,6 +7,8 @@
 #include <iostream>
 
 int main(int argc, char *argv[]) {
+    (void)argc;
+    (void)argv;
     std::cout << "[CreationDE] Iniciando Shell móvil de CosmicOS (Qt6)..." << std::endl;
     std::cout << "[CreationDE] Cargando lanzador de aplicaciones y barra de estado." << std::endl;
     return 0;
