@@ -20,4 +20,4 @@ cmake -S creationde -B build/creationde
 
 ## Licencia
 
-GPL-3.0-or-later.
+GPL-3.0-or-later. para general, LGPL-2.1-or-later para theme_engine
